@@ -1,0 +1,33 @@
+class OddNumber
+{
+public static void main(String[] args)
+{
+int num1=12;
+int num2=13;
+int num3=15;
+int num4=17;
+int num5=18;
+int num6=19;
+int num7=21;
+int num8=22;
+
+System.out.println("Number num1 is odd:" +(num1%2!=0));
+System.out.println("Number num2 is odd:" +(num2%2!=0));
+System.out.println("Number num3 is odd:" +(num3%2!=0));
+System.out.println("Number num4 is odd:" +(num4%2!=0));
+System.out.println("Number num5 is odd:" +(num5%2!=0));
+System.out.println("Number num6 is odd:" +(num6%2!=0));
+System.out.println("Number num7 is odd:" +(num7%2!=0));
+System.out.println("Number num8 is odd:" +(num8%2!=0));
+}
+}
+// commit
+output
+Number num1 is odd:false
+Number num2 is odd:true
+Number num3 is odd:true
+Number num4 is odd:true
+Number num5 is odd:false
+Number num6 is odd:true
+Number num7 is odd:true
+Number num8 is odd:false

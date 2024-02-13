@@ -10,7 +10,7 @@ int num5=18;
 int num6=19;
 int num7=21;
 int num8=22;
-
+boolean result=num1%2!=0;
 System.out.println("Number num1 is odd:" +(num1%2!=0));
 System.out.println("Number num2 is odd:" +(num2%2!=0));
 System.out.println("Number num3 is odd:" +(num3%2!=0));

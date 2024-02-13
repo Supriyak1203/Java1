@@ -1,0 +1,14 @@
+class SumOfNumber{
+    public static void main(String []args)
+    {
+        int m=8;
+        int n=16;
+        //sum of natural number from m to m-1
+        int sumM=m*(m-1)/2;
+        //sum of natural number from n to n+1
+        int sumN=n*(n+1)/2;
+        //find sum of given range of number
+        int sum=sumN-sumM;
+        System.out.println("sum of number:"+sum);
+    }
+}

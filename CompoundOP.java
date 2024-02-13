@@ -3,14 +3,13 @@ class CompoundOP
 public static void main(String [] args)
 {
 int a=150;
-int a1=50;
-//a=a/a1;
-//System.out.println(a);//3
-
-a /= a1;
+float a1=60.0f;
+//a=a*a1
+//System.out.println(a);//compile time error
+a *= a1;
 System.out.println(a);
 }
 }
 //output
-complile time-success
-runtime-3
+compile time-success
+runtime-9000

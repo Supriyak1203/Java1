@@ -7,3 +7,6 @@ int b=a;
 System.out.println(b);
 }
 }
+//output
+compile time-success
+  Run time=90

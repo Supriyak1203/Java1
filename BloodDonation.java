@@ -37,8 +37,10 @@ System.out.println("you are not eligible for blood donation  ");
 }
 }
 }
-
-
+//output
+compile time-success
+Run time-
+    you are eligible for blood donation
 
 
 

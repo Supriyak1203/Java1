@@ -3,7 +3,7 @@ class SmallProject
 {
 public static void main(String [] args)
 {
-Scanner sc=new Scanner(System.in);
+
 
 int key1=1;
 switch(key1)

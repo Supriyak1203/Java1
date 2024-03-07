@@ -13,3 +13,11 @@ a=a/10;
 System.out.println(b);
 }
 }
+/* output
+  Compile time-success
+  Run time
+  3
+  2
+  0
+  1
+  */

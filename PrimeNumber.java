@@ -20,3 +20,8 @@ System.out.println("is a prime number");
 }
 
 }
+/*
+output-
+  Compile time-Success
+  Run time -is a prime number
+  */
